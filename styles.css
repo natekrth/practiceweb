@@ -9,3 +9,7 @@ body {
 .pic-artist {
     max-height: 500px;
 }
+
+.navbar-brand {
+    font-weight: 700;
+}
