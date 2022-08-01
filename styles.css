@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+/* picture-div */
+.picture-div {
+    padding: 0% 20%;
+}
+.pic-artist {
+    max-height: 500px;
+}
